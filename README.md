@@ -34,7 +34,7 @@ a generic identity function:
 }
 ```
 
-or if you want to remove the unnessaseary types and let the compiler infer them
+or if you want to remove the unnecessary types and let the compiler infer them
 
 ```
 ($T: type) {
